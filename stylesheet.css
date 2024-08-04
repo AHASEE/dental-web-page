@@ -1,0 +1,48 @@
+*{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1 px;}
+    
+    .heading-one{ display: flex;} 
+    
+    h1{   color: gray; 
+     font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    margin-left: 10px;}
+     
+     
+    img{height: 150px;
+          width: 150px;}
+    .heading-four{font-size: small;}
+    sub{color: rgb(27, 153, 153);}
+    
+    .{display: flex;}
+    
+    pre{ font-size: large;
+             color: rgb(27, 153, 153);}
+    
+    .heading-four span{margin: 40px;
+                    font-size: medium;
+                     }
+    
+    .heading-four{text-align: center;
+                  margin-bottom: 20px;}
+                  .heading-four a{color: aqua;}
+    /* second part */
+    .main-one{border: 1px solid black;
+          background: pink;}
+    
+     .main-two{text-align: center;}
+    
+    .main-three        {display: flex;
+                      font-size: 15px; 
+                         margin: 10px;}
+    
+    .main-four{background-image: url(small-kid-patient-visiting-specialist-600nw-284549825.webp); 
+                background-size: cover;
+                width: 500px;
+               height: 250px;
+          margin-left:5%;}
+    
+    .main-five{font-size: small;
+                  margin: 10px;}
+    
+    .main-six{margin: 10px;}
